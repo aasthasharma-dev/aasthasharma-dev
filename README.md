@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aastha Sharma</h1>
+<h3 align="center">Aspiring Full-Stack Developer | Learning HTML, CSS, JavaScript, React & Tailwind 🚀</h3>
 
-<!--
-**aasthasharma-dev/aasthasharma-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🔭 I’m currently learning **Frontend Web Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m focusing on:
+- HTML, CSS & JavaScript
+- ReactJS & Tailwind CSS
+
+📚 Exploring projects to practice regularly
+
+👨‍💻 All of my practice & projects will be available at: [My GitHub Repositories](https://github.com/aasthasharma-dev?tab=repositories)
+
+📫 How to reach me: **coming soon...**
+
+---
+
+### 🛠️ Languages and Tools I’m Using:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aasthasharma-dev&show_icons=true&locale=en" alt="aasthasharma-dev" />
+</p>
+
+---
+
+✨ _Thanks for visiting my profile!_
